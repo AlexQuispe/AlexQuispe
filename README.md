@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @AlexQuispe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AlexQuispe/AlexQuispe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hola, soy Alex Quispe.
+- 💻 Desarrollador de software y fan de los servicios web.
+- ✨ Me encanta cómo una app puede cambiarle el día a alguien.  
+- 🎨 En los pequeños detalles está la diferencia.
+- ⚙️ Ando metido en automatizar tareas para trabajar más rápido y mejor.
+- 🤯 Cada día me sorprende más lo que podemos lograr con la IA.
+- 🚀 ¡Siempre listo para crear algo genial!
